@@ -1,5 +1,5 @@
 Steps to Run.
-
+#Project is implemented with Transfer learning- MobileNet in Tensorflow
 1. intall tensorflow
 2. clone this repository
 3. Download and prep the dataset by downloading the image and storing the based on their classes. eg.
